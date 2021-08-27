@@ -1,0 +1,14 @@
+.register{    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.registerwrap{
+    display: flex;
+    flex-direction: column;
+}
+
+.registerwrap input{
+
+    margin-bottom: 10px;
+}

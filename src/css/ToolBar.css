@@ -1,0 +1,11 @@
+.ToolBarWrap {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.ToolBarWrap a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
